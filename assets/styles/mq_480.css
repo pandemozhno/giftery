@@ -1,0 +1,17 @@
+@media screen and (min-width: 600px){
+/*
+** CARD
+*/
+.card__default{        
+    width: 45%;
+}
+
+/*
+** BRAND VIEW
+*/
+.brand_face{
+	padding: 1em;
+}
+
+
+}

@@ -1,0 +1,33 @@
+@media screen and (min-width: 1280px){
+/*
+**  DEFAULT HEADER
+*/
+.header__default{
+	box-sizing: border-box;
+	padding: 0.6em 10%;
+}
+
+/*
+** LAYOUTS
+*/
+.container{
+	padding: 2em 10%;
+	box-sizing: border-box;
+	flex-direction: row-reverse;
+	flex-wrap: nowrap;
+}
+	.content{
+		width: 75%;
+
+	}
+	.filters{
+		width: 25%;
+
+	}
+		.categories{
+			height: auto;
+			background-color: transparent;
+			box-shadow: unset;
+		}
+
+}
